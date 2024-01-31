@@ -1,0 +1,22 @@
+.bottom-navbar {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.mx-auto {
+    height: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+@media (max-width: 768px) {
+    .bottom-navbar {
+        display: block;
+    }
+}

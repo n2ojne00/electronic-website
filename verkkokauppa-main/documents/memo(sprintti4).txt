@@ -1,0 +1,71 @@
+Todetaan paikallaolijat 
+
+Maria Chabani, Topias Tyni, Aki Strömberg, Elias Konttaniemi, Netta Ojala ja Lauri Itkonen 
+
+Saavutettiinko sprintille asetetut tavoitteet? 
+
+Kaikki tavoitteet saavutettiin 
+
+ 
+
+Tehtiinkö kaikki sprintin käyttäjätarinat/tehtävät? 
+
+Kaikki tehtävät saatiin tehtyä 
+
+	 
+
+Tapahtuiko sprintissä jotain poikkeamia? 
+
+Eeeeei?  
+
+ 
+
+ 
+
+Miten tiimi toimii? Mikä toimii hyvin, missä on haasteita? 
+
+            Tiimi toimii hyvin 
+
+Miten yksilöt ja tiimi voisi parantaa toimintaansa? 
+
+Loppukiri 
+
+ 
+
+Mikä on seuraavan sprintin tavoitteet? 
+
+Loppukiri, sivut valmiiksi 
+
+	 
+
+Mitkä käyttäjätarinat/tehtävät toteutetaan seuraavassa sprintissä? 
+
+Kirjautuminen, käyttäjän nimi näkyviin kirjaudunappulaan 
+
+Adminille ylläpito-osio näkyviin kirjautuneena 
+
+Kirjaudu ulos nappula 
+
+Tuotteiden lisääminen ylläpitäjänä 
+
+Käyttäjälista ylläpidolle 
+
+Sivujen ulkoasunviimeistely 
+
+Yleistä koodin siivoamista 
+
+Tilausten teko 
+
+Esittelyvideo 
+
+Valuuttavalinta ostoskoriinkin toimimaan 
+
+Ostoskorin laskuri joko toimimaan tai kokonaan pois 
+
+ 
+
+	 
+
+Onko tekijöitä, jotka vaikuttavat työn tekemiseen (poissaoloja, vapaapäiviä)? 
+
+ei 

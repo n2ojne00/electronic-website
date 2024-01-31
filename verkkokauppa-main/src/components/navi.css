@@ -1,0 +1,15 @@
+.navibar {
+    background-color:grey;
+}
+
+.text {
+    color:white;
+}
+
+.basic-navbar-nav {
+    color: white;
+}
+
+.text-light:hover{
+    transform: scale(0.9);
+}

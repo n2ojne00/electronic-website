@@ -1,0 +1,49 @@
+Todetaan paikallaolijat 
+
+Maria Chabani, Joni neuvonen, Topias Tyni, Aki Strömberg, Elias Konttaniemi 
+
+ 
+
+Saavutettiinko sprintille asetetut tavoitteet? 
+
+Melkein kaikki tavoitteet saatiin tehtyä 
+
+ 
+
+Tehtiinkö kaikki sprintin käyttäjätarinat/tehtävät? 
+
+Lähes kaikki 
+
+	 
+
+Tapahtuiko sprintissä jotain poikkeamia? 
+
+Tumma teema ja kielenvalinta osoittautuivat haastaviksi tehdä enään tässä  
+
+vaiheessa kun sivut ovat näin pitkällä 
+
+ 
+
+Miten tiimi toimii? Mikä toimii hyvin, missä on haasteita? 
+
+             Tiimi toimii hyvin.  
+
+ 
+
+Mikä on seuraavan sprintin tavoitteet? 
+
+Rekisteröitymissivujen responsiivisuus 
+
+Suunnitella kirjautumishommia 
+
+            Saada ostoskorin kokonaan valmiiksi toiminnallisuuksineen 
+
+            Lisää tuotteita ja paremmat tuotetiedot  
+
+	 
+
+Onko tekijöitä, jotka vaikuttavat työn tekemiseen (poissaoloja, vapaapäiviä)? 
+
+ 
+
+Joululahjaostokset vaikuttivat työntekemiseen 

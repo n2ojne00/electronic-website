@@ -1,0 +1,50 @@
+Todetaan paikallaolijat 
+
+Maria Chabani, Joni neuvonen, Topias Tyni, Lauri Itkonen, Aki Strömberg, Elias Konttaniemi 
+
+ 
+
+Saavutettiinko sprintille asetetut tavoitteet? 
+
+Ehdottomasti 
+
+ 
+
+
+Tehtiinkö kaikki sprintin käyttäjätarinat/tehtävät? 
+
+Tehtiin mutta laitettiin ehkä vähän jo seuraavan sprintin juttuja hacknplaniin 	sprintti 2 tauluun, mutta ne on nyt siirretty seuraaviin sprintteihin. 
+
+ 
+
+Tapahtuiko sprintissä jotain poikkeamia? 
+
+Ei. 
+
+ 
+
+Miten tiimi toimii? Mikä toimii hyvin, missä on haasteita? 
+
+	Tiimi toimii mainiosti. 
+
+ 
+
+Mikä on seuraavan sprintin tavoitteet? 
+
+Saada sivuja eteenpäin 
+
+Ostoskori  
+
+Search kentän viimeistely ja tuotteiden siirto ostoskoriin 
+
+Salasanan vaihto sivun toiminnallisuus 
+
+Lisää tuotteita ja iso tuotesivu 
+
+Tumma teema 
+
+ 
+
+Onko tekijöitä, jotka vaikuttavat työn tekemiseen (poissaoloja, vapaapäiviä)? 
+
+Ei. 

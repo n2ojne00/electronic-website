@@ -1,0 +1,19 @@
+.not-found-container {
+    
+    margin-top: -0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh; /* Make the container full height of the viewport */
+    text-align: center;
+  }
+
+  h1 {
+    color: #333;
+    font-size: 2em;
+  }
+  
+  iframe {
+    margin-top: 20px;
+  }
